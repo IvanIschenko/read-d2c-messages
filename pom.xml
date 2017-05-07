@@ -8,5 +8,13 @@
     <artifactId>read-d2c-messages</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.microsoft.azure</groupId>
+            <artifactId>azure-eventhubs</artifactId>
+            <version>0.12.0</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
